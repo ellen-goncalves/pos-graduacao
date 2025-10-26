@@ -14,12 +14,12 @@ O sistema deve permitir CRUD de cursos (criar, visualizar, editar e excluir).
 - Título: String;
 - Descrição: String;
 - Categoria: Enum; (1)
-- Duração: Numérico; 2
-- Ativo: Booleano; 3
-- Data de inclusão: Data (XX/XX/XXXX) 4
-- Palavras-chaves: String 5
-- Docente: String 6 
-- Módulo: 7
+- Duração: Numérico; (2)
+- Ativo: Booleano; (3)
+- Data de inclusão: Data (XX/XX/XXXX); (4)
+- Palavras-chaves: String; (5)
+- Docente: (6)
+- Módulo: (7)
 
 
 #### Regra e observações do preenchimento dos campos:
