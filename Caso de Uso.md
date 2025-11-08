@@ -9,7 +9,6 @@ Estudante
 - Autenticar estudante
 - Cadastrar curso
 - Cadastrar módulo
-- Cadastrar docente
 - Buscar curso
 
 ## Fluxo principal:
