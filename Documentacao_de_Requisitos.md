@@ -1,4 +1,4 @@
-# 1. Documentação de Requisitos
+# Documentação de Requisitos
 Este documento tem como objetivo descrever de forma detalhada os requisitos funcionais e não funcionais do sistema, bem como suas restrições, regras de negócio e matriz de rastreabilidade.
 
 ## Requisitos Funcionais (RF)
