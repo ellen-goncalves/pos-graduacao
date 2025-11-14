@@ -1,4 +1,4 @@
-# CS 01 - Cadastrar curso
+# CSU 01 - Cadastrar curso
 ## Sumário: 
 O usuário administrador deseja cadastrar um curso na plataforma.
 ## Ator primário: 
@@ -42,7 +42,7 @@ RN01: O curso só pode estar disponível caso possua pelo menos 1 módulo cadast
 
 ***
 
-# CS 02 - Iniciar curso
+# CSU 02 - Iniciar curso
 ## Sumário: 
 O usuário Discente deseja iniciar um curso disponível na plataforma.
 ## Ator primário: 
