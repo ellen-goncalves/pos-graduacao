@@ -2,7 +2,7 @@
 
 Esta aplicação tem como finalidade ofertar cursos de formação técnica e profissionalizante a fim de promover capacitação profissional e contribuir para ressocialização de pessoas privadas de liberdade.
 
-![Documentação de Requisitos](Documentação_de_Requisitos.md)
+![Documentação de Requisitos](Documentacao_de_Requisitos.md)
 
 ![Casos de Uso](Casos_de_Uso.md)
 
